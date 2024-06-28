@@ -8,7 +8,6 @@
   background-color: #041b21;
   height: 100vh;
 }
-
 .title {
   color: white;
   font-size: 60px;
@@ -20,7 +19,6 @@
   color: #72ffd4;
   padding-left: 15px;
 }
-
 .reset {
   width: 250px;
   height: 100px;
@@ -47,4 +45,13 @@
   width: 564px;
   display: flex;
   margin: auto;
+}
+.boxes img {
+  margin: 50px 50px;
+}
+
+.title img {
+  padding: 20px 20px;
+  height: 85px;
+  margin-top: 20px;
 }
